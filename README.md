@@ -58,14 +58,19 @@ Travel-Booking-DBMS
 ├── transactions.sql
 ├── indexes.sql
 │
+├── er_diagrams/
+│     ├── er_diagram.png
+│     ├── er_diagram_detailed.png
+│
 ├── screenshots/
 │     ├── 01_tables.png
-│     ├── 02_data.png
+│     ├── 02_users_data.png
 │     ├── 03_join_query.png
-│     ├── 04_aggregate.png
+│     ├── 04_groupby.png
 │
-├── er_diagram.png
-└── project_report.pdf
+├── data_dictionary.md   
+├── how_to_run.md        
+└── project_report.pdf   
 ```
 
 ---
